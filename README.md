@@ -8,4 +8,4 @@ These are a few of my projects
 [DETERMINING AVOCADO PRICE](https://github.com/reynerwongso/portofolio/blob/main/DETERMINING%20AVOCADO%20PRICE.Rmd) - Using data preprocessing and basic machine learning algorithm to predict the price of avocado based on a few factors the dataset provided.
 
 
-[CERTIFICATIONS](https://github.com/reynerwongso/portofolio/tree/main/E-CERTIFICATE) - Miscellaneous certifications.
+[CERTIFICATIONS](https://github.com/reynerwongso/portofolio/tree/main/E-CERTIFICATE) - Certifications such as introduction to data science and UI/UX design.
