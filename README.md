@@ -1,4 +1,4 @@
-# REYNER PORTFOLIO #
+# MY PORTFOLIO #
 
 These are a few of my projects
 
